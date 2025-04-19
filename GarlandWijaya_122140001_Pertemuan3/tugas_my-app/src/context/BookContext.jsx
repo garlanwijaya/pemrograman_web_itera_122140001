@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 // src/context/BookContext.jsx
 import { createContext, useState } from "react";
 import PropTypes from "prop-types";

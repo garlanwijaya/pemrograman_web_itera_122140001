@@ -1,6 +1,7 @@
 // src/pages/Home/Home.jsx
 import { useContext, useState } from "react";
 import { BookContext } from "../../context/BookContext";
+import { Link, Routes, Route } from "react-router-dom";
 import BookForm from "../../components/BookForm/BookForm";
 import BookFilter from "../../components/BookFilter/BookFilter";
 import BookList from "../../components/BookList/BookList";
@@ -16,6 +17,14 @@ const Home = () => {
 
   return (
     <div className="home-container">
+      <nav>
+        <Link to="/" className="link">
+          Manajemen Buku
+        </Link>
+        <Link to="/stats" className="link">
+          Statistik
+        </Link>
+      </nav>
       <div className="section-card">
         <h1 className="page-title">Manajemen Buku</h1>
 
