@@ -1,0 +1,27 @@
+/* src/components/BookForm/BookForm.css */
+form {
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+form input,
+form select {
+  margin: 12px 0;
+  height: 42px;
+  font-size: 16px;
+}
+
+form button {
+  margin-top: 15px;
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+}
+
+.status-select {
+  background: #e8f4e8;
+  border-color: #4caf50;
+}

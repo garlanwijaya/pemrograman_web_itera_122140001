@@ -1,0 +1,20 @@
+/* src/components/BookFilter/BookFilter.css */
+.filter-container {
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search-input {
+  width: 65%;
+  margin-right: 15px;
+}
+
+.filter-select {
+  width: 30%;
+  padding: 12px;
+  font-size: 16px;
+  background: #fff3e0;
+  border-color: #ff9800;
+}
