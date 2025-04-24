@@ -19,19 +19,19 @@ const Stats = () => {
       <div>
         <h1>Statistik</h1>
         <div className="stats-grid">
-          <div className="stat-card">
+          <div className="stat-card card-1">
             <h2 className="stat-title">Total Buku</h2>
             <p className="stat-value">{totalBooks}</p>
           </div>
-          <div className="stat-card">
+          <div className="stat-card card-2">
             <h2 className="stat-title">Dimiliki</h2>
             <p className="stat-value">{owned}</p>
           </div>
-          <div className="stat-card">
+          <div className="stat-card card-3">
             <h2 className="stat-title">Sedang Dibaca</h2>
             <p className="stat-value">{reading}</p>
           </div>
-          <div className="stat-card">
+          <div className="stat-card card-4">
             <h2 className="stat-title">Ingin Dibeli</h2>
             <p className="stat-value">{toBuy}</p>
           </div>
