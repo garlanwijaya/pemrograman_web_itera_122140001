@@ -23,7 +23,7 @@ library_project/
 └── README.md             ← Dokumentasi ini  
   
 # 🧰 Fitur Utama  
-
+![img-1](https://github.com/user-attachments/assets/6a7d6178-1cf3-4e7b-b66b-2a10214166fd)
   
 # 🖥️ Cara Menjalankan Program  
 1. Jalankan Versi CLI (main.py)  
@@ -32,7 +32,7 @@ Untuk pengguna biasa
 Semua fitur kecuali tambah/hapus item  
   
 ▶️ Langkah-langkah:  
-
+![img-2](https://github.com/user-attachments/assets/cbe8b7de-8d24-4aa6-acc0-ebf1e71af570)
   
 Program akan menampilkan menu interaktif untuk:  
   
@@ -46,7 +46,7 @@ Login role (User/Admin)
 Semua fitur sesuai role  
   
 ▶️ Langkah-langkah:  
-
+![img-3](https://github.com/user-attachments/assets/1e31d111-3a23-4539-9272-792c248889ca)
   
 Program akan membuka jendela login:  
   
