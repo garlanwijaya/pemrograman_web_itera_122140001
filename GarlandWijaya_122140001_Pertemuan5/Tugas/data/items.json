@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Book",
+        "item_id": 101,
+        "title": "Python Programming",
+        "author": "John Doe",
+        "is_available": true
+    },
+    {
+        "type": "Book",
+        "item_id": 102,
+        "title": "Data Structures",
+        "author": "Jane Smith",
+        "is_available": false
+    },
+    {
+        "type": "Magazine",
+        "item_id": 201,
+        "title": "National Geographic",
+        "issue_number": 123,
+        "is_available": true
+    }
+]
